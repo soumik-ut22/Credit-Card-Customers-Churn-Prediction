@@ -14,4 +14,4 @@ By understanding the key indicators of attrition, the bank can implement targete
 Banks with this knowledge can make more informed business decisions by determining the focus areas to increase their investments, such as an increase in digital marketing, an improvement in customer service, or an expansion in incentives for the at-risk customers. 
 
 
-# Please refer to the project report for the details of exploratory data analysis and modeling techniques used. 
+Please refer to the project report for the details of exploratory data analysis and modeling techniques used. 
